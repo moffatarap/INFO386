@@ -1,4 +1,3 @@
-/******* PRIMAL LIFE FORCE CSS *******/
 /* #1 TAGS */
 header {
     
@@ -54,6 +53,15 @@ h1 {
 
 .textContent h1:first-child {
     border-bottom:1px solid #a1e2fd;
+}
+
+.textContent a:link {
+    font-family: Raleway, sans-serif;
+    font-weight:600;
+    color:#ffffff;
+    font-size:1.3em;
+    padding:0.5%;
+   -webkit-font-smoothing: antialiased;
 }
 
 .textSubheader h1 { 
