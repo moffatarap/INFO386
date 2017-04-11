@@ -133,9 +133,12 @@ iframe {
 
 
 a:link {
-    color:#a1e2fd;
-    text-decoration:none;
-   font-family: Oswald, sans-serif;
+    font-family: Raleway, sans-serif;
+    font-weight:600;
+    color:#ffffff;
+    font-size:1.3em;
+    padding:0.5%;
+   -webkit-font-smoothing: antialiased;
 }
 
 a:visited {
